@@ -1,29 +1,34 @@
-This is a personal portfolio website built using HTML, CSS, and JavaScript. It showcasing skills, projects, and services. The site is designed to be a clean, responsive web portfolio that can be easily customized and expanded for any personal use.
+# John Watson - Personal Portfolio
 
-Features
-Home Section: An introduction with a summary of John Watson.
+Welcome to the personal portfolio website of **John Watson**. This portfolio showcases my work in **Web Development**, **App Development**, **Photography**, and more. It serves as an introduction to my skills, projects, and the services I offer.
 
-About Section: A brief description of my background and experience.
+## Table of Contents
+- [About](#about)
+- [Technologies Used](#technologies-used)
+- [Features](#features)
+- [Installation](#installation)
+- [Project Structure](#project-structure)
+- [License](#license)
 
-Skills Section: Displays my proficiency in various technologies with progress bars.
+## About
+This portfolio website includes sections for:
+- **About Me**: A brief introduction to who I am.
+- **Skills**: Highlighting my skills in web development, app development, and more.
+- **Services**: Details about the services I offer.
+- **Projects**: A showcase of projects I have worked on.
+- **Contact**: A contact form to get in touch with me.
 
-Services Section: Showcases the services he provides with relevant icons.
+## Technologies Used
+The following technologies were used to build this portfolio:
+- HTML
+- CSS (with Flexbox & Grid for layout)
+- JavaScript (for interactive elements)
+- SVG icons (for the service section)
+- Responsive Design (using media queries)
 
-Projects Section: Highlights some of my best projects with links and images.
+## Features
+- **Responsive Design**: The portfolio is mobile-friendly and adjusts its layout based on screen size.
+- **Interactive Elements**: Includes hover effects, animations, and transitions to make the user experience more engaging.
+- **Contact Form**: A form to allow visitors to get in touch with me directly.
 
-Portfolio Section: A grid layout of images and descriptions of my work.
 
-Contact Section: A form where users can contact me directly.
-
-Footer: Contains useful links like privacy policy, terms of service, and contact information.
-
-Tech Stack
-HTML: The structure of the web pages.
-
-CSS: Styling and layout of the site.
-
-JavaScript: Interactive elements.
-
-SVG Icons: For graphical representation of services and skills.
-
-Responsive Design: The website is fully responsive, meaning it looks great on any device.
