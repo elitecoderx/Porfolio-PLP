@@ -1,3 +1,8 @@
+# Team Members
+- [Sachin](https://github.com/elitecoderx)
+- [Lathitha Vena](https://github.com/7athitha)
+- [Elvis]()
+
 # John Watson - Personal Portfolio
 
 Welcome to the personal portfolio website of **John Watson**. This portfolio showcases my work in **Web Development**, **App Development**, **Photography**, and more. It serves as an introduction to my skills, projects, and the services I offer.
