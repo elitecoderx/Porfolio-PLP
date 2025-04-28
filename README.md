@@ -1,7 +1,7 @@
 # Team Members
 - [Sachin](https://github.com/elitecoderx)
 - [Lathitha Vena](https://github.com/7athitha)
-- [Elvis]()
+- [Elvis](https://github.com/ElvisSeidge)
 
 # John Watson - Personal Portfolio
 
